@@ -1,4 +1,4 @@
-# CarlynRocks
+# Carlyn Petrella
 This is my public GitHub page for Telling Stories with Data at CMU!
 
 ## About Me
