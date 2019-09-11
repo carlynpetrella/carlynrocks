@@ -5,7 +5,7 @@
 
 # General Government Debt by Country. But this time, a little bit different! 
 
-This vizualization is a larger section of the same data set as in the graph above, but represented vastly different. In this representation, data from 1996-2018 is represented, where as in the graph above, only the year 2015 is used. You'll also notice some missing data points because the full data set is missing data. As the data source (https://data.oecd.org/) is updated, the beeswarm plot will be as well. 
+This vizualization is a larger section of the same data set as in the graph above, but represented vastly different. In this representation, data from 1996-2018 is represented, where as in the graph above, only the year 2015 is used. You'll also notice some missing data points because the full data set is missing data. As the data source (<https://data.oecd.org/>) is updated, the beeswarm plot will be as well. 
 
 The size of the "dots" change as the their ranking among GDP debt changes through the years. The larger the "dot", the larger the debt ratio is as compared to the other countries. 
 
@@ -29,4 +29,8 @@ Purposfully, this area graph only shows counties with full data sets available. 
 
 
 # Are some representations of data better than others?
-## The answer to that question is a certain yes, but it comes with caveats. The type of visualization chosen should depend on what you hope your end result to be. The bar graph at the top of the page was created by the Organization for Economic Cooperation and Development (OECD). The graph does a vefiry good job of displaying data for one specific year, 2015. The next two graphs look at data over time, for which a bar graph is not the best option. 
+## The answer to that question is a certain yes, but it comes with caveats. The type of visualization chosen should depend on what you hope your end result to be. The bar graph at the top of the page was created by the Organization for Economic Cooperation and Development (OECD). The graph does a good job of displaying data for one specific year, 2015. The next two graphs look at data over time, for which a bar graph is not the best option. 
+
+## Both the second and third graphs use year data points to compare trends over time. The beeswarm plot looks at each year as an individual data point, where with the area graph, you can more clearly see the progression of data. I chose the area graph for the thrid visualization because it was most appropriate for the data. Many of the graph/chart options did not allow to show variation over time, and I thought that was important to display. The trends there are interesting. 
+
+## All of the data comes from [OECD's data website](https://data.oecd.org/gga/general-government-debt.htm) , 
