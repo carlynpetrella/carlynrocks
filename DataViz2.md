@@ -17,7 +17,7 @@ The size of the "dots" change as the their ranking among GDP debt changes throug
 
 # Is this viz better than dots?
 
-The third vizualization is an Area Graph, ranked by accumulated Debt Ratio over the years. Japan has the highest debt ratio area, and also had the highest in the stand alone year of 2015. (The last year that ranking was available.) Purposfully, this area graph only shows counties with full data sets available. This was done to reduce confusion for a graph of this form.  
+The third vizualization is an Area Graph, ranked by accumulated Debt Ratio over the years. Japan has the highest debt ratio area, and also had the highest ratio in the stand alone year of 2015. (The last year that ranking was available.) Purposfully, this area graph only shows counties with full data sets available. This was done to reduce confusion for a graph of this form.  
 
 
 ## Government Debt Ratio; Japan has had highest ratio for years
