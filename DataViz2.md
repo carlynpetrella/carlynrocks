@@ -35,4 +35,6 @@ Purposfully, this area graph only shows counties with full data sets available. 
 
 ## Both the second and third graphs use year data points to compare debt:GDP trends over time. The beeswarm plot looks at each year as an individual data point, where with the area graph you can more clearly see the progression of data. I chose the area graph for the thrid visualization because it was most appropriate for the data. Many of the graph/chart options did not allow to show variation over time and I thought that was important to display. The area graph vizualizes to what extent the ratio has changed over time, it allows you to see volitility in the ratio if it exists. While you can see that with the beeswarm plot if you study it hard enough, it pops out immediately when looking at the area graph. 
 
-## All of the data comes from [OECD's data website](https://data.oecd.org/gga/general-government-debt.htm) , 
+## All of the data comes from [OECD's data website](https://data.oecd.org/gga/general-government-debt.htm), and the same data set was used for all three graphs. 
+
+#### [Return to my homepage!](https://carlynpetrella.github.io/carlynrocks/)
