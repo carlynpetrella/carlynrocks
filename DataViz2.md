@@ -29,4 +29,4 @@ Purposfully, this area graph only shows counties with full data sets available. 
 
 
 # Are some representations of data better than others?
-##### The answer to that question is a certain yes, but it comes with caveats. The type of visualization chosen should depend on what you hope your end result to be. The bar graph at the top of the page was created by the Organization for Economic Cooperation and Development (OECD). The graph does a vefiry good job of displaying data for one specific year, 2015. The next two graphs look at data over time, for which a bar graph is not the best option. 
+## The answer to that question is a certain yes, but it comes with caveats. The type of visualization chosen should depend on what you hope your end result to be. The bar graph at the top of the page was created by the Organization for Economic Cooperation and Development (OECD). The graph does a vefiry good job of displaying data for one specific year, 2015. The next two graphs look at data over time, for which a bar graph is not the best option. 
