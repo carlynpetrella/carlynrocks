@@ -17,3 +17,5 @@ Link to Live Site: https://carlynpetrella.github.io/carlynrocks/
 )
 
 [This is my page](https://carlynpetrella.github.io/carlynrocks/Titanic%20Survival%20Rates)
+
+[Check out Assingment Number 2!](https://carlynpetrella.github.io/carlynrocks/DataViz2)
