@@ -14,7 +14,7 @@ My goal for this course is to learn how to use data vizualization as both a tool
 ## Portfolio
 
 Link to Live Site: https://carlynpetrella.github.io/carlynrocks/
-)
+
 
 [This is my page](https://carlynpetrella.github.io/carlynrocks/Titanic%20Survival%20Rates)
 
