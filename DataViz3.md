@@ -7,6 +7,9 @@
 
 #### I was drawn to this article because of the title, "Americans increasingly see climate change as a crisis, poll shows". Unfortunately, the data presented in the article, although informative, does not call on historical data to show an "increasingly" worried population. On top of that, the vizualization of polling data were bland and wordy. I thought the data could be vizualized in a more striking way, to better grab reader's attention. 
 
-#### Before I created the final vizualization seen below, I drew a multitude of sketches, or wireframes, and asked my peers what they thought. The process was incredibly informative. A second (and third) pair of eyes draws attention to mis-aligned colors and confusing graphics I took for granted as understood. 
+#### Before I created the final vizualization seen below, I drew a multitude of sketches, or wireframes, and asked my peers what they thought. The process was incredibly informative. A second (and third) pair of eyes draws attention to my mis-aligned colors and confusing graphics. Because *I* understood what it meant, I took for granted that others would as well. 
+
+
+## The Final Verson
 
 
