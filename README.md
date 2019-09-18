@@ -16,6 +16,8 @@ My goal for this course is to learn how to use data vizualization as both a tool
 Link to Live Site: https://carlynpetrella.github.io/carlynrocks/
 
 
-[This is my page](https://carlynpetrella.github.io/carlynrocks/Titanic%20Survival%20Rates)
+[My first data graphic!](https://carlynpetrella.github.io/carlynrocks/Titanic%20Survival%20Rates)
 
 [Check out Assingment Number 2!](https://carlynpetrella.github.io/carlynrocks/DataViz2)
+
+[Critique by Redesign: Assignment 3](https://carlynpetrella.github.io/carlynrocks/DataViz3)
