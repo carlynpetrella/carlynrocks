@@ -1,4 +1,4 @@
-# Critique by Redesign
+# Critique by Redesign by Carlyn Petrella
 
 ## This project required finding a data vizualization that speaks to something imprtant to me, but that I think can be done better. I chose an article on public perceptions of Climate Change, because I believe it is one of the most pressing problems facing us today. The science behind Climate Change is not in dispute, yet portions of the population still think it is 1) not human induced and 2) not an issue. 
 
