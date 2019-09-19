@@ -9,6 +9,10 @@
 
 ### Before I created the final vizualization seen below, I drew a multitude of sketches, or wireframes, and asked my peers what they thought. The process was incredibly informative. A second (and third) pair of eyes draws attention to my mis-aligned colors and confusing graphics. Because *I* understood what it meant, I took for granted that others would as well. 
 
+### Based on critiques surrounding my wireframe, I: 
+### * Revamped the color scheme
+### * Re-aranged the data citations 
+
 
 ## The Final Verson
 
