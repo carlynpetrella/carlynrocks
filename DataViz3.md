@@ -20,7 +20,12 @@
 
 <iframe title="US adults say reducing negative effects of climate change will require:" aria-label="Bar Chart" id="datawrapper-chart-S6Acf" src="//datawrapper.dwcdn.net/S6Acf/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="206"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
 
+.
+.
 
 ### I'm adding my own critique to this graphic. 
 #### I think the color scheme could be better, so that it is not so startk.
 #### I wanted to make the graphs on one set of Axis to compair the bars, but I couldn't figure out how to do that and keep separate titles for each. 
+
+
+[Back to the main page!](https://carlynpetrella.github.io/carlynrocks/)
