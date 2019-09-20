@@ -24,7 +24,7 @@
 .
 
 ### I'm adding my own critique to this graphic. 
-#### I think the color scheme could be better, so that it is not so startk.
+#### I think the color scheme could be better, so that it is not so stark.
 #### I wanted to make the graphs on one set of Axis to compair the bars, but I couldn't figure out how to do that and keep separate titles for each. 
 
 
