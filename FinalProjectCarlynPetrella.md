@@ -8,3 +8,5 @@ As the storyteller, I want to convey that saving trees isn't just for tree hugge
 
 ## The all important data
 The majority of data for this project will come from [Our World in Data](https://ourworldindata.org/forests). The website provides copious amounts of data on tree cover by country, as well as reasons for and levels of deforestion. Much of their data comes from the Food and Agricultural Organization of the United Nations [The State of the World's Forests](http://www.fao.org/3/I9535EN/i9535en.pdf) report. 
+
+I'll use the data to create a compelling story surrounding deforestation, attempting to show trends and bring urgency to the idea that it must be reversed. 
