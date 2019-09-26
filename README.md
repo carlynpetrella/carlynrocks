@@ -21,3 +21,6 @@ Link to Live Site: https://carlynpetrella.github.io/carlynrocks/
 [Check out Assingment Number 2!](https://carlynpetrella.github.io/carlynrocks/DataViz2)
 
 [Critique by Redesign: Assignment 3](https://carlynpetrella.github.io/carlynrocks/DataViz3)
+
+[Beginnings of a final project!](https://carlynpetrella.github.io/carlynrocks/FinalProjectCarlynPetrella)
+
