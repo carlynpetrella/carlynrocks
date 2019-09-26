@@ -1,4 +1,4 @@
-# The World is on Fire and it is Only Getting Worse
+# The world is on fire and it is only getting worse, but planting a tree can help!
 ## A data vizualization story about the planet's disappearing tree cover, and what it means for a changing climate. 
 
 For millennia humans been cutting down trees for building material and heating fuel, as well as slashing and burning acres for agriculture and infrastructure.  This vizual story will show the acres of tree cover loss over time, and connect that to our current climate. 
