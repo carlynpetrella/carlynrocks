@@ -14,4 +14,5 @@ I'll use the data to create a compelling story surrounding deforestation, attemp
 ## Sketches show the beginning of the outline 
 
 ![Sketch 1](https://carlynpetrella.github.io/carlynrocks/Sketch1.JPG)
-!(https://carlynpetrella.github.io/carlynrocks/Sketch2.JPG)
+![Sketch 2](https://carlynpetrella.github.io/carlynrocks/Sketch2.JPG)
+![Sketch 3](https://carlynpetrella.github.io/carlynrocks/Sketch3.JPG)
