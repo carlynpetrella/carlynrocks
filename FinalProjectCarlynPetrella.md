@@ -11,7 +11,7 @@ The majority of data for this project will come from [Our World in Data](https:/
 
 I'll use the data to create a compelling story surrounding deforestation, attempting to show trends and bring urgency to the idea that it must be reversed. 
 
-## Sketches show the beginning of the outline 
+## Sketches show the beginning of an outline. More sketches to come next week! 
 
 ![Sketch 1](https://carlynpetrella.github.io/carlynrocks/Sketch1.JPG)
 ![Sketch 2](https://carlynpetrella.github.io/carlynrocks/Sketch2.JPG)
