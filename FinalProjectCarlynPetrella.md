@@ -13,4 +13,4 @@ I'll use the data to create a compelling story surrounding deforestation, attemp
 
 ## Sketches show the beginning of the outline 
 
-(https://carlynpetrella.github.io/carlynrocks/Sketch1.JPG)
+![Sketch 1](https://carlynpetrella.github.io/carlynrocks/Sketch1.JPG)
