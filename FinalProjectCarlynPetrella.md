@@ -40,7 +40,9 @@ Because I am targeting the general public, and will be staying in a hotel this w
 
 Hello, my name is Carlyn Petrella and I’m taking a data visualization class at Carnegie Mellon University. I was wondering if you had about five minutes to help me with a project?
 
-I’d like you to read through a Storyboard I’ve created. While looking over the story, try to keep in mind how it makes you feel, and if it leaves you with more questions than answers, or if it all makes perfect sense! I’ll have a few follow-up questions for you after you have had time to digest the story. 
+I’d like you to read through a Storyboard I’ve created. While looking over the story, please keep in mind how it makes you feel. Does it leave you with more questions than answers? Or, does it make perfect sense??
+
+I will have a few follow-up questions after you had had time to digest the story.
 
 Questions: Do the Graphic Add to, or Take away from the story?
-
+Is there something you wish you had seen?
