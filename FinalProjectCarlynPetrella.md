@@ -32,7 +32,7 @@ After analyzing the data, and starting to put together my storyboard, I've decid
 ### A mood board helped!
 ![MoodBoard](https://carlynpetrella.github.io/carlynrocks/MoodBoardjpg.JPG)
 
-## The Target Audience for this visual story is the general public. I want people who may have heard about recent forest fires and slash and burn agriculture to know that this is a long term issue, not just the new hot news. I want people to understand the devastating impact disapearing tree-cover has on our Climate, but also that they can help. People should walk away from the story feeling an urgent need to effect change. I want everyone to feel inspired to go plant a tree!
+## The Target Audience for this visual story is the general public. I want people who may have heard about recent forest fires or recent tree cover loss to know that this is a long term issue, not just the new hot news. I want people to understand the devastating impact disapearing tree-cover has on our climate, but also know they can help. People should walk away from the story feeling an urgent need to effect change. I want everyone to feel inspired to go plant a tree!
 
 Because I am targeting the general public, and will be staying in a hotel this weekend, I plan to ask people idling in the lobby if they have a few moments to spare for a graduate student. 
 
