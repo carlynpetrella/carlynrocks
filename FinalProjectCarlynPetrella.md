@@ -44,5 +44,7 @@ I’d like you to read through a Storyboard I’ve created. While looking over t
 
 I will have a few follow-up questions after you had had time to digest the story.
 
+![Narrative 1](https://carlynpetrella.github.io/carlynrocks/Narritive.1.JPG)
+
 Questions: Do the Graphic Add to, or Take away from the story?
 Is there something you wish you had seen?
