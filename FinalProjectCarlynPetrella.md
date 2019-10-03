@@ -26,7 +26,8 @@ This week started by finding [more data sources](http://www.fao.org/faostat/en/#
 Tree Cover carbon capture calculations were extrapolated from [data](https://www.epa.gov/energy/greenhouse-gases-equivalencies-calculator-calculations-and-references#pineforests) from the Enviornmental Protection Agency. The USEPA calculated 1 hectare of tree cover sequesters 188 metric tons of carbon. 
 
 After analyzing the data, and starting to put together my storyboard, I've decided a more approprite title for this visual story is 
->**"The World is on fire and it's not looking good, but planting trees can help!"**
+> **"The World is on fire and it's not looking good, but planting trees can help!"**
+
 
 ### A mood board helped!
 ![MoodBoard](https://carlynpetrella.github.io/carlynrocks/MoodBoardjpg.JPG)
