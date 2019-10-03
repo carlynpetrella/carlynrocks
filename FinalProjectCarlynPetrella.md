@@ -22,3 +22,16 @@ I'll use the data to create a compelling story surrounding deforestation, attemp
 # Part II MoodBoards, Wireframes, Storyboards, User Research and More! 
 
 This week started by finding [more data sources](http://www.fao.org/faostat/en/#data/LC) from the Food and Agriculture Organization of the United Nations (FAO). A lot of the data from last week was sourced from the FAO, and their raw data retrival system is very user friendly. 
+
+## The Target Audience for this visual story is the general public. I want people who may have heard about forest fires and slash and burn agriculture but may not understand the devastating impact it has on our Climate to walk away from the story feeling an urgent need to effect change. I want everyone to feel inspired to go plant a tree!
+
+Because I am targeting the general public, and will be staying in a hotel this weekend, I plan to ask people idling in the lobby if they have a few moments to spare for a graduate student. 
+
+## The all important script! 
+
+Hello, my name is Carlyn Petrella and I’m taking a data visualization class at Carnegie Mellon University. I was wondering if you had about five minutes to help me with a project?
+
+I’d like you to read through a Storyboard I’ve created. While looking over the story, try to keep in mind how it makes you feel, and if it leaves you with more questions than answers, or if it all makes perfect sense! I’ll have a few follow-up questions for you after you have had time to digest the story. 
+
+Questions: Do the Graphic Add to, or Take away from the story?
+
