@@ -23,7 +23,7 @@ I'll use the data to create a compelling story surrounding deforestation, attemp
 
 This week started by finding [more data sources](http://www.fao.org/faostat/en/#data/LC) from the Food and Agriculture Organization of the United Nations (FAO). A lot of the data from last week was sourced from the FAO, and their raw data retrival system is very user friendly. 
 
-Tree Cover carbon capture calculations were extrapolated from [data](http://archive.stats.govt.nz/browse_for_stats/environment/environmental-reporting-series/environmental-indicators/Home/Atmosphere-and-climate/forest-carbon-stocks.aspx) from New Zealand's Greenhouse Gas Inventory. They have done extensive research on the carbon capture potential of trees. There calculations were applied to tree cover across the continents. Although carbon capture does depend on multiple variables, for this project assumptions were made that the New Zeland model applies across the board. 
+Tree Cover carbon capture calculations were extrapolated from [data](https://www.epa.gov/energy/greenhouse-gases-equivalencies-calculator-calculations-and-references#pineforests) from the Enviornmental Protection Agency. The USEPA calculated 1 hectare of tree cover sequesters 188 metric tons of carbon. 
 
 ## The Target Audience for this visual story is the general public. I want people who may have heard about forest fires and slash and burn agriculture but may not understand the devastating impact it has on our Climate to walk away from the story feeling an urgent need to effect change. I want everyone to feel inspired to go plant a tree!
 
