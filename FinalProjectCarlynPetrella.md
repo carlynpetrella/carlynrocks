@@ -27,6 +27,9 @@ Tree Cover carbon capture calculations were extrapolated from [data](https://www
 
 After analyzing the data, and starting to put together my storyboard, I've decided a more approprite title for this visual story is **"The World is on fire and it's not looking good, but planting trees can help!"**
 
+### A mood board helped!
+
+
 ## The Target Audience for this visual story is the general public. I want people who may have heard about forest fires and slash and burn agriculture but may not understand the devastating impact it has on our Climate to walk away from the story feeling an urgent need to effect change. I want everyone to feel inspired to go plant a tree!
 
 Because I am targeting the general public, and will be staying in a hotel this weekend, I plan to ask people idling in the lobby if they have a few moments to spare for a graduate student. 
