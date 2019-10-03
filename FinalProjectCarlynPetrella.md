@@ -36,7 +36,7 @@ After analyzing the data, and starting to put together my storyboard, I've decid
 
 Because I am targeting the general public, and will be staying in a hotel this weekend, I plan to ask people idling in the lobby if they have a few moments to spare for a graduate student. 
 
-## The all important script! 
+## The all important interview script! 
 
 Hello, my name is Carlyn Petrella and I’m taking a data visualization class at Carnegie Mellon University. I was wondering if you had about five minutes to help me with a project?
 
