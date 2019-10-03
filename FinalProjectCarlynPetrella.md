@@ -21,4 +21,4 @@ I'll use the data to create a compelling story surrounding deforestation, attemp
 
 # Part II MoodBoards, Wireframes, Storyboards, User Research and More! 
 
-This week started by finding [more data sources!](http://www.fao.org/faostat/en/#data/LC) and a MoodBoard. 
+This week started by finding [more data sources](http://www.fao.org/faostat/en/#data/LC) from the Food and Agriculture Organization of the United Nations (FAO). A lot of the data from last week was sourced from the FAO, and their raw data retrival system is very user friendly. 
