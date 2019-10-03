@@ -53,3 +53,4 @@ I will have a few follow-up questions after you had had time to digest the story
 
 Questions: Do the Graphic Add to, or Take away from the story?
 Is there something you wish you had seen?
+Does any part of this graphic story make you feel a certain way?
