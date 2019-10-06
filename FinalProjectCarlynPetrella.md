@@ -58,3 +58,12 @@ Do the graphics make sense? Do you find them confusing or misleading in any way?
 Is there something you wish you had seen?
 
 Does any part of this graphic story make you feel a certain way?
+
+
+### User Research and Findings
+
+I found this exercise very useful. Of the three people interviewed, they had similar comments. I'm breaking comments down with a few specifics from each interview, but I heard the sentiments more than once. 
+
+Interview 1: Felt my story left them wanting more information on how to help the forests. It is mentioned in the story that Aus/NZ turned their deforestation around, and the user wanted the information on how they did that. Because it was not my intention to provide that type of information, I am going to re-phrase some of that type. 
+
+
