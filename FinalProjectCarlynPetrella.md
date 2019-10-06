@@ -68,4 +68,7 @@ Interview 1: This user felt my story left them wanting more information on how t
 
 Interview 2: This user wanted to see more consistency in the graphs. They thought that potentially the graphs should all be of the same "type". All line graph or all bar chart, etc. Beyond that, the first line graph, user had a difficult time interpreting that it was measuring "forest loss". I think this graph would be better suited as an area chart. Additionally, user 2 had a hard time interpreting the last area chart, of Aus/NZ "negative loss". I will have to re-work that chart.  
 
+Interview 3: In general thought story didn't follow through on the introduction. User 3 would have liked to have seen more climate facts. How much CO2 is one degree in global temperature raise. -Again, this wasn't my intended message of the data vizualization. I think I need to rewrite the copy, so it just focuses on tree cover loss and gain over the last 20 years. The climate part is important, and I will keep that information, just phrase the opening better. 
+
+
 
