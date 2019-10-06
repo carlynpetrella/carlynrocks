@@ -64,6 +64,8 @@ Does any part of this graphic story make you feel a certain way?
 
 I found this exercise very useful. Of the three people interviewed, they had similar comments. I'm breaking comments down with a few specifics from each interview, but I heard the sentiments more than once. 
 
-Interview 1: Felt my story left them wanting more information on how to help the forests. It is mentioned in the story that Aus/NZ turned their deforestation around, and the user wanted the information on how they did that. Because it was not my intention to provide that type of information, I am going to re-phrase some of that type. 
+Interview 1: This user felt my story left them wanting more information on how to help the forests. It is mentioned in the story that Aus/NZ turned their deforestation around, and the user wanted the information on how they did that. Because it was not my intention to provide that type of information, I am going to re-phrase some of that type. 
+
+Interview 2: This user wanted to see more consistency in the graphs. They thought that potentially the graphs should all be of the same "type". All line graph or all bar chart, etc. Beyond that, the first line graph, user had a difficult time interpreting that it was measuring "forest loss". I think this graph would be better suited as an area chart. Additionally, user 2 had a hard time interpreting the last area chart, of Aus/NZ "negative loss". I will have to re-work that chart.  
 
 
