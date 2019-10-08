@@ -51,6 +51,8 @@ I will have a few follow-up questions after you had had time to digest the story
 ![Narrative 5](https://carlynpetrella.github.io/carlynrocks/Narritive.5.JPG)
 ![Narrative 6](https://carlynpetrella.github.io/carlynrocks/Narritive.6.JPG)
 
+[Photo Credit](https://www.flickr.com/photos/so8/8161891893/)
+
 Questions: Do the Graphic Add to, or Take away from the story?
 
 Do the graphics make sense? Do you find them confusing or misleading in any way?
