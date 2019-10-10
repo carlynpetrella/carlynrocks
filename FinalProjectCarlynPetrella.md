@@ -75,7 +75,7 @@ Interview 2: This user wanted to see more consistency in the graphs. They though
 Interview 3: In general thought story didn't follow through on the introduction. User 3 would have liked to have seen more climate facts. How much CO2 is one degree in global temperature raise. -Again, this wasn't my intended message of the data vizualization. I think I need to rewrite the copy, so it just focuses on tree cover loss and gain over the last 20 years. The climate part is important, and I will keep that information, just phrase the opening better. 
 
 
-
+# Part III
 
 # [See the finished product here!](https://carnegiemellon.shorthandstories.com/save-the-trees/index.html)
 
