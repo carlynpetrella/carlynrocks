@@ -24,5 +24,4 @@ Link to Live Site: https://carlynpetrella.github.io/carlynrocks/
 
 [Beginnings of a final project!](https://carlynpetrella.github.io/carlynrocks/FinalProjectCarlynPetrella)
 
-[The Final Project!!](https://carlynpetrella.github.io/carlynrocks/FinalProjectCarlynPetrella)
-
+[The Final Project!!](https://carnegiemellon.shorthandstories.com/save-the-trees/index.html)
